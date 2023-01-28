@@ -1,0 +1,21 @@
+baseURL = 'https://Jkevin233.github.io'
+languageCode = 'zh-cn'
+title = "Jkevin's blog"
+theme = "github-style"
+
+[params]
+  author = "JKevin"
+  description = "And Die Defending Them."
+  github = "Jkevin233"
+  email = "leomessigoattt@gmail.com"
+  url = "https://Jkevin233.github.io"
+  keywords = "blog"
+  rss = false
+  lastmod = true
+  userStatusEmoji = "😀"
+  favicon = "/images/github.png"
+  location = "China"
+  enableGitalk = false
+
+[frontmatter]
+  lastmod = ["lastmod", ":fileModTime", ":default"]
