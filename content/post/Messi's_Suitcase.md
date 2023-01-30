@@ -9,7 +9,7 @@ summary: 到底是怎样的终点，才配得上这一路的颠沛流离
 
 > 犹记上一次搭建博客第一篇文章敲了`Hernán Casciari`写的 *Messi is a dog* 英译版，那会小梅还在生涯最低谷的时候。一转眼现在已经2023年了，那个梦幻的夜晚也已经过去一个多月了，新博客没想好写点什么，就同样用`Hernán Casciari`的文章开个头，庆祝这个童话的结尾。
 > 
-> [原文](https://english.elpais.com/sports/2022-12-23/the-piece-of-writing-that-made-messi-cry.html)
+> [原文](https://medium.com/@antonella.perazzoni/messis-suitcase-38dd78250fb2)
 
 ***
 
